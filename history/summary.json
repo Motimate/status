@@ -4,19 +4,19 @@
     "url": "https://web.motimateapp.com/",
     "icon": "https://favicons.githubusercontent.com/web.motimateapp.com",
     "slug": "web-application",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 216,
-    "timeDay": 195,
-    "timeWeek": 216,
-    "timeMonth": 216,
-    "timeYear": 216,
+    "status": "up",
+    "uptime": "99.48%",
+    "uptimeDay": "97.74%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.48%",
+    "uptimeYear": "99.48%",
+    "time": 242,
+    "timeDay": 286,
+    "timeWeek": 242,
+    "timeMonth": 242,
+    "timeYear": 242,
     "dailyMinutesDown": {
-      "2021-01-09": 0
+      "2021-01-09": 33
     }
   },
   {
