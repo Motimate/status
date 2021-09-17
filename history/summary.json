@@ -4,7 +4,7 @@
     "url": "https://web.motimateapp.com/",
     "icon": "https://favicons.githubusercontent.com/web.motimateapp.com",
     "slug": "web-application",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 268,
     "timeYear": 293,
     "dailyMinutesDown": {
+      "2021-09-17": 0,
       "2021-01-12": 55,
       "2021-01-09": 33
     }
