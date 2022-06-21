@@ -4,18 +4,19 @@
     "url": "https://web.motimateapp.com/",
     "icon": "https://favicons.githubusercontent.com/web.motimateapp.com",
     "slug": "web-application",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 330,
-    "timeDay": 755,
-    "timeWeek": 387,
-    "timeMonth": 407,
-    "timeYear": 339,
+    "time": 348,
+    "timeDay": 4927,
+    "timeWeek": 1258,
+    "timeMonth": 636,
+    "timeYear": 363,
     "dailyMinutesDown": {
+      "2022-06-21": 1,
       "2021-09-17": 96
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://about.motimateapp.com/",
     "icon": "https://favicons.githubusercontent.com/about.motimateapp.com",
     "slug": "about-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -36,6 +37,7 @@
     "timeMonth": 608,
     "timeYear": 642,
     "dailyMinutesDown": {
+      "2022-06-21": 0,
       "2022-01-19": 44
     }
   }
