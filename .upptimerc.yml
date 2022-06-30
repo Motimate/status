@@ -5,9 +5,13 @@ repo: status # Your GitHub repository name
 # Add your sites here
 sites:
   - name: Web application
-    url: https://web.motimateapp.com/
-  - name: About page
-    url: https://about.motimateapp.com/
+    url: https://motimate.app/signin
+    headers:
+      - "User-Agent: $USER_AGENT"
+  - name: Landing page
+    url: https://www.motimateapp.com/
+    headers:
+      - "User-Agent: $USER_AGENT"
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -16,13 +20,15 @@ status-website:
   # baseUrl: /upptime
   logoUrl: https://res.cloudinary.com/motimate-dev/image/upload/t_media_lib_thumb/v1609411794/hsbgfpvmhuc3mg4bypf1.png
   name: Motimate
-  introTitle: "**Motimate** is a mobile first app that will allow you to easily create and deliver engaging learning content, directly to your employees on mobile."
+  introTitle: "**Motimate** is the fun and easy mobile learning app that brings together a world full of knowledge."
   introMessage: Overview of the status of our pages.
   navbar:
     - title: Status
       href: /
+    - title: Help Center
+      href: https://support.motimateapp.com/
     - title: Support
-      href: https://about.motimateapp.com/support
+      href: https://www.motimateapp.com/customer-support/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
