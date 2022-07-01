@@ -27,19 +27,19 @@
     "url": "https://www.motimateapp.com/",
     "icon": "https://favicons.githubusercontent.com/www.motimateapp.com",
     "slug": "landing-page",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 489,
-    "timeDay": 75,
-    "timeWeek": 489,
-    "timeMonth": 489,
-    "timeYear": 489,
+    "status": "up",
+    "uptime": "99.79%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
+    "time": 629,
+    "timeDay": 562,
+    "timeWeek": 629,
+    "timeMonth": 629,
+    "timeYear": 629,
     "dailyMinutesDown": {
-      "2022-07-01": 0
+      "2022-07-01": 4
     }
   }
 ]
