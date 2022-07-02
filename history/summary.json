@@ -28,18 +28,16 @@
     "icon": "https://favicons.githubusercontent.com/www.motimateapp.com",
     "slug": "landing-page",
     "status": "up",
-    "uptime": "99.79%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.79%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 629,
     "timeDay": 562,
     "timeWeek": 629,
     "timeMonth": 629,
     "timeYear": 629,
-    "dailyMinutesDown": {
-      "2022-07-01": 4
-    }
+    "dailyMinutesDown": {}
   }
 ]
