@@ -26,17 +26,19 @@
     "url": "https://www.motimateapp.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.motimateapp.com.ico",
     "slug": "landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 384,
-    "timeDay": 356,
-    "timeWeek": 614,
-    "timeMonth": 393,
-    "timeYear": 384,
-    "dailyMinutesDown": {}
+    "time": 381,
+    "timeDay": 207,
+    "timeWeek": 545,
+    "timeMonth": 383,
+    "timeYear": 381,
+    "dailyMinutesDown": {
+      "2022-11-28": 0
+    }
   }
 ]
